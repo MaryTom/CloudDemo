@@ -131,6 +131,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="App_Themes\Images\AllTire.jpg" />
+    <Content Include="App_Themes\Images\alltrucks.jpg" />
+    <Content Include="App_Themes\Images\BlueTruck.jpg" />
+    <Content Include="App_Themes\Images\heap.jpg" />
+    <Content Include="App_Themes\Images\recycle.jpg" />
+    <Content Include="App_Themes\Images\tirerim.jpg" />
+    <Content Include="App_Themes\Images\trucktire.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
